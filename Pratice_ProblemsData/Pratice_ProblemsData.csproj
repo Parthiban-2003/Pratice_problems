@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pratice_ProblemsLogic\Pratice_ProblemsLogic.csproj" />
+    <ProjectReference Include="..\Pratice_ProblemsTest\Pratice_ProblemsTest.csproj" />
+    <ProjectReference Include="..\Pratice_Problems\Pratice_Problems.csproj" />
+  </ItemGroup>
+
+</Project>
